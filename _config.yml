@@ -8,4 +8,4 @@ github_username:  tk27182
 
 # Build settings
 markdown: kramdown
-remote_theme: Wall-E
+theme: minima
