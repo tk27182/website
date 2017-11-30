@@ -8,4 +8,4 @@ github_username:  tk27182
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-midnight
